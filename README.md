@@ -21,7 +21,7 @@ The algorithm we present allows users to track objects in real-time by either up
  <br>
  
 > Actual Functionality
-
+![](https://github.com/JosephZahar/Object-Detection-and-Real-Time-Tracking-CV/blob/main/AppropriateUnfortunateAmericancreamdraft-mobile.mp4)
 
 
 
