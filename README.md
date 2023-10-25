@@ -1,6 +1,6 @@
 <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" /> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&style=flat" /> <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=Plotly&logoColor=white&style=flat" /> <img alt="Dash" src="https://img.shields.io/badge/Dash-008DE4?logo=Dash&logoColor=white&style=flat" />
 
-# Object-Detection-and-Real-Time-Tracking-CV
+# Object Detection and Real Time Tracking CV
 
 The algorithm we present allows users to track objects in real-time by either uploading a video or accessing their computer camera and manually selecting the object of interest. The movements of the object are then monitored, providing precise and valuable information with numerous applications, from security and surveillance to robotics and beyond. Our user-friendly interface makes object tracking accessible to a wide range of individuals and industries, making it a valuable tool for both seasoned computer vision professionals and those just starting out in the field.
 
